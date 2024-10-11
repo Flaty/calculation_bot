@@ -57,4 +57,3 @@ if __name__ == "__main__":
     bot.reply_on_message(reply)
     bot.run_bot()
 
-    main()
